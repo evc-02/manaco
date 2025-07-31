@@ -1,4 +1,4 @@
 # manaco
 Fullstack Project
-Proyecto Web de Manaco 
-Herramientas MySQL, PHP, Laravel
+# Proyecto Web de Manaco 
+# Herramientas MySQL, PHP, Laravel
